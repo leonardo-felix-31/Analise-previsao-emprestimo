@@ -10,7 +10,7 @@ Este projeto tem como objetivo analisar dados históricos de pedidos de emprést
 - Realizar análise exploratória de dados (EDA) para identificação de padrões.
 - Tratar valores ausentes e outliers.
 - Criar e comparar modelos de machine learning.
-- Avaliar métricas de performance e acurácia dos modelos.
+- Avaliar métricas de performance e pontuação entre cada modelo.
 
 ---
 
@@ -19,8 +19,8 @@ Este projeto tem como objetivo analisar dados históricos de pedidos de emprést
 - `Análise Exploratória`: distribuição de variáveis, correlação e relação com o target.
 - `Limpeza de Dados`: tratamento de nulos e outliers.
 - `Feature Engineering`: conversão de variáveis categóricas, normalização, balanceamento.
-- `Modelagem Preditiva`: Logistic Regression, Decision Tree, Random Forest e XGBoost.
-- `Avaliação`: matriz de confusão, accuracy, precision, recall e f1-score.
+- `Modelagem Preditiva`: Logistic Regression, Decision Tree, Random Forest, KNN e MLP.
+- Avaliamos os modelos com os métodos best_params (melhores parametros) e best_score (Pontuação).
 
 ---
 
