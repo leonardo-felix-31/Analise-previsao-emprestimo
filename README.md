@@ -25,9 +25,7 @@ Este projeto tem como objetivo analisar dados históricos de pedidos de emprést
 ---
 
 ## 🔍 Principais Insights
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Correlation_heatmap.png/640px-Correlation_heatmap.png" alt="Heatmap de Correlação" width="600">
-
+- A variável renda é a mais significativa dos dados na hora de conceder empréstimo.
 - Solicitantes com histórico de crédito positivo têm alta chance de aprovação.
 - Pessoas casadas e com educação superior têm maior taxa de aprovação.
 - A variável `LoanAmount` apresenta distribuição assimétrica e foi normalizada.
