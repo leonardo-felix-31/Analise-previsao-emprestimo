@@ -36,22 +36,23 @@ Este projeto tem como objetivo analisar dados históricos de pedidos de emprést
 
 ## 🤖 Modelos Utilizados
 
-| Modelo            | Acurácia | Observações                           |
-|-------------------|----------|----------------------------------------|
-| Regressão Logística | ~81%     | Simples e interpretável                |
-| Decision Tree      | ~76%     | Boa para entender regras               |
-| Random Forest      | ~83%     | Redução de overfitting                 |
-| XGBoost            | **~84%** | Melhor desempenho entre os modelos     |
+| Modelo             | Acurácia | Observações                            |
+|------------------- |----------|----------------------------------------|
+| Regressão Logística| ~87%     | Simples e interpretável                |
+| Decision Tree      | ~87%     | Boa para entender regras               |
+| Random Forest      | ~89%     | Melhor desempenho                      |
+| KNN                | ~88%     | Predição mais rapida                   |
+| MLP                | ~87%     | Maior complexidade                     |
 
 ---
 
 ## 📁 Tecnologias Utilizadas
 
 - Python 3.10
+- Jupyter Notebook
 - pandas, numpy
 - matplotlib, seaborn
 - scikit-learn
-- xgboost
 
 ---
 
