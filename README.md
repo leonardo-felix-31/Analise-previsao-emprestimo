@@ -58,4 +58,4 @@ Este projeto tem como objetivo analisar dados históricos de pedidos de emprést
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-emprestimo.git
+   git clone https://github.com/leonardo-felix-31/Analise-previsao-emprestimo
